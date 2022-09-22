@@ -9,4 +9,8 @@
 
 ## Visual representation of a project
 
-![test](https://imgur.com/Jq1yCXd.png)
+![](https://imgur.com/Jq1yCXd.png)
+
+![](https://imgur.com/ICOdtet.png)
+
+
